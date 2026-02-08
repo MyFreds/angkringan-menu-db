@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "name": "Nasi Kucing",
+    "description": "Nasi putih dengan lauk sambal, tempe, dan ikan teri",
+    "price": 5000,
+    "category": "makanan",
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
+  },
+  // Tambahkan menu lainnya...
+]
